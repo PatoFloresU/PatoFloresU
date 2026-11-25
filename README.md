@@ -28,4 +28,4 @@ Our five-person team built an academic prototype for a nonprofit that supports p
 
 [Read the Casa Monarca project brief](https://github.com/PatoFloresU/PatoFloresU/blob/main/Casa_Monarca_Digital_Identity.pdf)
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/patricio-flores-13b69a1a5/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/patricio-flores-uribe-13b69a1a5/)
