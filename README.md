@@ -1,6 +1,6 @@
 # Patricio Flores Uribe
 
-I study Data Science and Mathematics Engineering at Tecnológico de Monterrey in Mexico. I work with Python and statistics to answer questions about cities and operations. Below are three projects where you can see what I contributed, from research software to documentation for people using a system.
+I study Data Science and Mathematics Engineering at Tecnológico de Monterrey in Mexico. I work with Python and statistics to answer questions about cities and operations. My work ranges from statistical inference on air pollution to the topology of esports performance. [Technical skills and where I used them](https://github.com/PatoFloresU/PatoFloresU/blob/main/SKILLS.md).
 
 ## School calendars and morning air quality in Monterrey
 
@@ -9,6 +9,12 @@ I am the first and corresponding author of a study on a question about my city. 
 The clearest result was for carbon monoxide. The early-to-late morning concentration ratio was 4.6% higher during school terms than during vacations (95% confidence interval, 1.5% to 7.7%). I presented the findings in Tokyo and received the **Best Presentation** award at ACESD 2026. The paper, co-authored with Raúl Gómez Muñoz and Blanca Rosa Ruiz Hernández, was **accepted for publication in the ACESD 2026 conference proceedings**.
 
 [Analysis code and results](https://github.com/PatoFloresU/monterrey-school-calendar-air-quality) · [One-page research brief](https://github.com/PatoFloresU/PatoFloresU/blob/main/Monterrey_Air_Quality_Project_Brief.pdf)
+
+## Mapping player styles at League of Legends Worlds 2024
+
+In this individual project, I normalized six performance metrics by position for 81 players and represented each of the 16 teams as a 30-dimensional roster. I used Mapper to connect overlapping clusters of player profiles and Vietoris–Rips persistent homology to track connected components and loops across distance scales. In the selected Mapper graph, 33 of 36 nodes belonged to one connected component. I then compared original and topological features using leave-one-team-out validation.
+
+[Project and graph](https://github.com/PatoFloresU/worlds-2024-topological-analysis) · [Executed Python notebook](https://github.com/PatoFloresU/worlds-2024-topological-analysis/blob/main/Worlds_2024_Analysis.ipynb)
 
 ## Prioritizing interplant supply routes with Ternium
 
